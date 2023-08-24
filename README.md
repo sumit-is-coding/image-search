@@ -1,2 +1,2 @@
-# image-search
-Created random image generator through a keyword, using API's and JavaScript.
+# ImageSearch_api_JS
+Random Image Search App
